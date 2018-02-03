@@ -1,0 +1,1 @@
+“Bug ME” is an Android application, which could show the student’s, their classes, attendance details, faculty information and campus bus details.
